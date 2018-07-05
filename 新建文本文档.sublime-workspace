@@ -1,0 +1,578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pu",
+				"public"
+			],
+			[
+				"print",
+				"print〔function〕"
+			],
+			[
+				"pri",
+				"print〔function〕"
+			],
+			[
+				"pa",
+				"path〔module〕"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"http",
+				"http_list"
+			],
+			[
+				"str",
+				"start_url"
+			],
+			[
+				"co",
+				"compile"
+			],
+			[
+				"get",
+				"get_mp4_url"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"su",
+				"start_url"
+			],
+			[
+				"getc",
+				"get_content"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"lst",
+				"lst_fail"
+			],
+			[
+				"hd",
+				"hd"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"img",
+				"imglink"
+			],
+			[
+				"f",
+				"for\tFor Loop"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"fin",
+				"findall"
+			],
+			[
+				"post",
+				"post_data"
+			],
+			[
+				"url",
+				"urllib2"
+			],
+			[
+				"ie",
+				"ie"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"c",
+				"compile"
+			],
+			[
+				"fo",
+				"found"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"last_filter": "gitp",
+		"selected_items":
+		[
+			[
+				"gitp",
+				"Git: Open..."
+			],
+			[
+				"gitremot",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add All"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"gita",
+				"Git: Add..."
+			],
+			[
+				"remote",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git:commit",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add All"
+			],
+			[
+				"gitdiff",
+				"Git: Diff All Files"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"gi",
+				"Git: Init"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssj",
+				"Set Syntax: Java"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Project/Sublime Text3.txt",
+		"/E/Project/README.md",
+		"/C/Users/Administrator/Desktop/13.txt",
+		"/C/Users/Administrator/.ssh/id_rsa.pub",
+		"/E/Project/Sublime Text3",
+		"/F/Sublime Text3/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/F/Sublime Text3/Data/Packages/User/ColorPicker.sublime-settings",
+		"/F/Sublime Text3/Data/Packages/User/Git.sublime-settings",
+		"/F/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+		"/F/新建文件夹/Demonophobia/游戏打不开点我.txt",
+		"/F/3DMGAME/Demonophobia/说明.txt",
+		"/F/新建文件夹/妹调教日记/妹调教日记攻略[www.ed2kers.com].txt",
+		"/F/新建文件夹/AnotherAdventureDemo/说明.txt",
+		"/F/新建文件夹/AnotherAdventureDemo/游戏打不开点我.txt",
+		"/F/新建文件夹/没有人知道的大冒险.CHS.Green/AnotherAdventureDemo/说明.txt",
+		"/E/directory/readme.txt",
+		"/F/新建文件夹/Demonophobia/说明.txt",
+		"/E/directory/新建文本文档.txt",
+		"/F/Sublime Text3/Data/Packages/Git/Git.sublime-settings",
+		"/F/Program Files/Git/mu.pub",
+		"/F/Sublime Text3/Data/Packages/User/Base File.sublime-settings",
+		"/F/Sublime Text3/Data/Installed Packages/Git.sublime-package",
+		"/C/Users/Administrator/Desktop/HelloWorld.cs",
+		"/F/Sublime Text3/Data/Packages/User/HelloWorld.cs",
+		"/F/Sublime Text3/Data/Packages/User/C#.sublime-build",
+		"/C/Users/Administrator/Desktop/index.c",
+		"/F/Sublime Text3/Data/Packages/User/C++.sublime-build",
+		"/C/Users/Administrator/Desktop/Hello.java",
+		"/F/Sublime Text3/Data/Packages/User/myJava.sublime-build",
+		"/F/Sublime Text3/Data/Packages/User/MyJava.sublime-build",
+		"/F/Sublime Text3/Data/Packages/User/Java.sublime-build",
+		"/C/Users/Administrator/Desktop/1.java",
+		"/C/Users/Administrator/Desktop/1.py",
+		"/F/Sublime Text3/Data/Packages/User/Python2.sublime-build",
+		"/F/Sublime Text3/Data/Packages/User/Python.sublime-settings",
+		"/F/Sublime Text3/Data/Packages/User/JavaC.sublime-build",
+		"/F/Sublime Text3/Data/Packages/User/Javac.sublime-build",
+		"/F/Sublime Text3/Data/Packages/User/Myjava.sublime-build",
+		"/F/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/F/Sublime Text3/Data/Packages/DocBlockr/Base File.sublime-settings",
+		"/F/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
+		"/F/Sublime Text3/Data/Packages/DocBlockr/README.md",
+		"/F/Sublime Text3/Data/Packages/View In Browser/View In Browser.sublime-settings",
+		"/F/Sublime Text3/Data/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/Administrator/Desktop/新建文件夹 (4)/新建文本文档.html",
+		"/C/Users/Administrator/Desktop/新建文件夹 (4)/index.htm",
+		"/C/Users/Administrator/Desktop/FalloutSheler/FalloutSheler/说明.txt",
+		"/E/游戏/新建文件夹 (7)/重建避难所2.0修改1版-pc/Vault_Repopulation-2.0-pc/log.txt",
+		"/D/Rape of the dead レイプ・オブ・ザ・デッド1.20/RoD_Ver1.20/Manifest_NonUFSFiles_Win32.txt",
+		"/C/Users/Administrator/Desktop/FalloutSheler/3DMGAME-Fallout.Shelter.CHS.Patch.v2.0-3DM/说明.txt",
+		"/D/SWDALL/SWDRSLG/readme.txt",
+		"/D/SWDALL/SWDRSLG/patch102.txt",
+		"/I/FeedandGrowFishV0.8.5_chs_setup/安装说明.txt",
+		"/C/Users/Administrator/Desktop/LMBS_v0_32/LMBS_v0_32/Credits.txt",
+		"/C/Users/Administrator/Desktop/[あかだまやっきょく] ロイヤルな空母娘レイヤーさんと個人撮影で中ハメ！９５cmおっぱい堪能しながら中出ししちゃいました！ www.idanmu.com/[あかだまやっきょく] ロイヤルな空母娘レイヤーさんと個人撮影で中ハメ！９５cmおっぱい堪能しながら中出ししちゃいました！/蓝酱さいこう.txt",
+		"/D/Rape of the dead レイプ・オブ・ザ・デッド1.20/RoD_Ver1.20/ReadMe_v1.20.txt",
+		"/F/Visual Novel Reader/jbv7等常用工具/daemontools/DAEMON_Tools_Pro/参考上个版本的说明如下.txt",
+		"/F/Visual Novel Reader/jbv7等常用工具/VOICEROID+ 結月ゆかり/結月ゆかり/serial.txt",
+		"/F/Visual Novel Reader/Visual Novel Reader/Library/License.txt",
+		"/F/Visual Novel Reader/Visual Novel Reader/Library/Readme.txt",
+		"/F/Visual Novel Reader/Visual Novel Reader/Library/Dictionaries/pinyin/VERSION.txt",
+		"/F/Visual Novel Reader/jbv7等常用工具/【UniDic,MaCab辞书等常用辞书合集】/使用说明.txt",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa8228.33247/serial.txt",
+		"/F/Visual Novel Reader/Visual Novel Reader/Caches/Readme.txt",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa6988.8303/serial.txt",
+		"/F/Visual Novel Reader/Visual Novel Reader/Readme.txt",
+		"/F/Visual Novel Reader/Visual Novel Reader/Changes.txt",
+		"/F/Visual Novel Reader/Visual Novel Reader/★打开前必看★.txt",
+		"/F/Visual Novel Reader/Visual Novel Reader/★OCR光学识别手动安装方法★.txt",
+		"/F/Visual Novel Reader/Visual Novel Reader/游戏原文和翻译文本自动保存/※使用说明.txt",
+		"/F/Visual Novel Reader/Visual Novel Reader/Scripts/Readme.txt",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIb6936.39626/使用说明.txt",
+		"/F/Visual Novel Reader/Visual Novel Reader/Caches/Program Files (x86)/Common Files/Microsoft Shared/安装说明.txt",
+		"/F/Visual Novel Reader/jbv7等常用工具/daemontools/DAEMON_Tools_Pro/Читать.txt",
+		"/E/游戏/新建文件夹 (7)/重建避难所2.0修改1版-pc/Vault_Repopulation-2.0-pc/Vault_Repopulation.sh",
+		"/E/游戏/新建文件夹 (7)/3DMGANE-Galgame.VNRfanyi VNR/3DMGANE-Galgame.VNRfanyi/共享辞书备份/使用方式.txt",
+		"/E/游戏/新建文件夹 (7)/3DMGANE-Galgame.VNRfanyi VNR/3DMGANE-Galgame.VNRfanyi/VNR本体/VNR整合版[160404]/Visual Novel Reader[160404]/Visual Novel Reader/★打开前必看★.txt",
+		"/E/游戏/新建文件夹 (7)/3DMGANE-Galgame.VNRfanyi VNR/3DMGANE-Galgame.VNRfanyi/VNR本体/VNR整合版[160404]/Visual Novel Reader[160404]/Visual Novel Reader/★OCR光学识别手动安装方法★.txt",
+		"/E/游戏/新建文件夹 (7)/3DMGANE-Galgame.VNRfanyi VNR/3DMGANE-Galgame.VNRfanyi/VNR本体/VNR整合版[160404]/Visual Novel Reader[160404]/Visual Novel Reader/游戏原文和翻译文本自动保存/※使用说明.txt",
+		"/E/游戏/新建文件夹 (7)/3DMGANE-Galgame.VNRfanyi VNR/3DMGANE-Galgame.VNRfanyi/VNR本体/VNR整合版[160404]/Visual Novel Reader[160404]/Visual Novel Reader/Readme.txt",
+		"/E/游戏/新建文件夹 (7)/3DMGANE-Galgame.VNRfanyi VNR/3DMGANE-Galgame.VNRfanyi/VNR本体/关于整合版.txt",
+		"/C/Users/Administrator/Desktop/[Rip@Lip]Sisters/[Rip@Lip]Sisters/readme.txt",
+		"/C/Users/Administrator/Desktop/AdobeFlashCS6/Adobe Flash CS6/安装说明.txt",
+		"/E/游戏/[Rip@Lip]/[Rip@Lip]Office Lady/[Rip@Lip]Office Lady/readme.txt",
+		"/E/游戏/[Rip@Lip]/[Rip@Lip]miku mania/[Rip@Lip]miku mania/readme.txt",
+		"/C/Users/Administrator/Desktop/VaultRepopulation 2.0.txt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"git_command",
+			"jsdocs_extra_tags_go_after",
+			"html",
+			"]",
+			"】",
+			"【",
+			" width: 200, formatter:function(value,options,row){\n                return new Date(value).Format('yyyy-MM-dd');}}",
+			"../images/",
+			"image",
+			"tick",
+			"brand1",
+			"container",
+			"wrapper",
+			"agileits",
+			"w3layouts",
+			"changeUrl",
+			"nav-tabs",
+			"close-tab",
+			"nav-tabs",
+			"menu",
+			".nav-tabs",
+			"closeTab",
+			"close-tab",
+			"a",
+			"aria-controls",
+			"close-tab",
+			"nav-tabs",
+			", width: 200 },",
+			"}, width: 200 },",
+			"}, width: 200 },  ",
+			"{ label: ",
+			"            { label: ",
+			"width: 200 },",
+			"grid_selector",
+			"pager_selector",
+			"jqGrid",
+			"user",
+			"                            ",
+			"'",
+			"name:'",
+			" ",
+			"', name:",
+			"{ label: '",
+			"            ",
+			"changeUrl",
+			", ",
+			"name:",
+			"learn",
+			"）",
+			"\t\t\t\t",
+			"+\"",
+			" = request.getParameter(",
+			"String ",
+			"    \t",
+			",",
+			"(",
+			"\"",
+			"(\"",
+			"\":data.",
+			"                    ",
+			"\":",
+			"\":          ",
+			"                    ",
+			"}",
+			"width: 200 },",
+			"refreshData",
+			"initData",
+			"modifyLearnBtn",
+			"getRowData",
+			"jqGrid",
+			"#",
+			"\"",
+			"saveLearn()",
+			"saveLearnBt",
+			");",
+			"$(",
+			").val(data.",
+			" ",
+			"mysql",
+			" 2",
+			" ",
+			"jandan_load_img",
+			"saveimg",
+			"extension=php_",
+			"80",
+			"ssl.conf",
+			"443",
+			"httpd-ssl.conf",
+			"defaul",
+			"defaultlang",
+			"phpinidir",
+			"extension",
+			"extension=php_mysqli.dll",
+			"LoadModule",
+			"kenneth"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"] ",
+			"]",
+			"[",
+			"",
+			"../image/",
+			"",
+			"nexus",
+			"",
+			"}\"></td>",
+			"<td th:text=\"${user.",
+			"",
+			"</th>",
+			"<th>",
+			"",
+			")",
+			"",
+			"+\"\\t",
+			"+",
+			"System.out.println(",
+			"",
+			"\");",
+			"(\"",
+			"String ",
+			"(",
+			" = request.getParameter(\"",
+			"",
+			");",
+			"",
+			"'",
+			",",
+			"",
+			":",
+			"",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "Packages/User/Java.sublime-build",
+	"project": "新建文本文档.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
